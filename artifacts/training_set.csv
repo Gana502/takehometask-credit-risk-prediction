@@ -1,0 +1,6 @@
+customer_id,txn_count,total_debit,total_credit,avg_amount,net_cashflow,kw_rent,kw_netflix,kw_tesco,kw_payroll,kw_bonus,defaulted_within_90d
+CUST_0001,3,-65.98,2500.0,811.34,2434.02,0,1,1,1,0,0
+CUST_0002,2,-650.0,1800.0,575.0,1150.0,1,0,0,1,0,1
+CUST_0003,2,-300.0,1200.0,450.0,900.0,0,0,0,0,0,0
+CUST_0004,2,-400.0,900.0,250.0,500.0,1,0,0,1,0,1
+CUST_0005,1,0.0,6500.0,6500.0,6500.0,0,0,0,0,1,0

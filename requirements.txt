@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+joblib
+pytest
+matplotlib
+httpx2
+logging
