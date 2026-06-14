@@ -6,4 +6,3 @@ joblib
 pytest
 matplotlib
 httpx2
-logging
